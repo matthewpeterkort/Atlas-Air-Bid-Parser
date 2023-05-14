@@ -1,0 +1,4 @@
+tk
+pyPDF2
+tqdm
+tabula-py
